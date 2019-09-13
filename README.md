@@ -1,4 +1,6 @@
 # Driver samples for Windows 10
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdeathstrob23%2FWindows-driver-samples.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdeathstrob23%2FWindows-driver-samples?ref=badge_shield)
+
 These are the official Microsoft Windows Driver Kit (WDK) team driver code samples for Windows 10. They provide a foundation for Universal Windows driver support of all hardware form factors, from phones to desktop PCs. Use these samples with Visual Studio 2015 and Windows Driver Kit (WDK) 10.
 
 ## Windows 10 driver development
@@ -36,3 +38,7 @@ If you're writing your first driver, use these exercises to get started. Each ex
 # Microsoft Code of Conduct
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdeathstrob23%2FWindows-driver-samples.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdeathstrob23%2FWindows-driver-samples?ref=badge_large)
